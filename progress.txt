@@ -1,0 +1,7 @@
+day1 - prb:1 ~ (transactions) loops, dictonaries, functions (solved); prb:2 ~ (password is strong / week) loops, string methods, conditionals, functions (time-over)
+day2 - prb:1 ~ (password is strong / week) loops, string methods, conditionals, functions; 
+day3 - prb:3 ~ (same as prb:1 returns top N products) sorting, lambda; prb:4 ~ (word frequency counter) dictionaries, soring, string methods 
+day4 - no progress
+day5 - no progress
+day6 - no progress
+day7 - prb:4 ~ (group scores by grades) defaultdict, conditions, grouping; prb:5 - (ceaser cipher) ord(), char() and % for wrap around, string  building
