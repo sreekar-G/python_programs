@@ -53,4 +53,27 @@ if __name__ == "__main__" :
 	]
 	output_grades = group_by_grade(students)
 	display_grades(output_grades)
-	
+
+
+
+# Bug1 : Wrong — match/case doesn't support conditions like this
+# match student_score:
+#    case >= 90 and <= 100:
+# Fix — use if/elif instead
+
+# Bug 2 : defaultdict(lambda: []) is correct but can be simpler
+#  Simpler — list is already a factory function
+#  defaultdict(list)
+
+# Bug 3 : .get() on defaultdict defeats the purpose; output_grades.get(student_grade)
+# use square brackets directly output_grades[student_grade].append(each_student.get("name"))
+
+# Bug 4 : enumerate wrong for dict, use .items(); for each_grade, students in enumerate(grades_dict):
+# for each_grade, students in grades_dict.items():
+
+# Bug 5 : printf and f-string syntax wrong; printf("{each_grade}  → str(students)")
+# print(f"{each_grade}  → {', '.join(students)}")
+
+# Bug 6 : if __main__ condition flipped; if __main__ = "__name__":
+# if __main__ = "__name__":
+

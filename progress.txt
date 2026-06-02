@@ -5,3 +5,4 @@ day4 - no progress
 day5 - no progress
 day6 - no progress
 day7 - prb:4 ~ (group scores by grades) defaultdict, conditions, grouping; prb:5 - (ceaser cipher) ord(), char() and % for wrap around, string  building
+day11 - Machine Learning (Square Trick, Absolute Trick); prb:4 ~ (ceaser cipher) 
