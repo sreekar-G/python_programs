@@ -43,6 +43,24 @@ def loading_data() :
 	
 	return features, labels
 
+
+# Anagram Checker
+def check_anagram(word1, word2) :
+	sorted_word1 = ''.join(sorted(word1.lower(), key=lambda x : ord(x[0])))
+	sorted_word2 = ''.join(sorted(word2.lower(), key=lambda x : ord(x[0])))
+	if sorted_word2 == sorted_word1 :
+		print(f"'{word1}' '{word2}'    → ✅ Anagram")
+	else :
+		print(f"'{word1}' '{word2}'   → ❌ Not an Anagram")
+	
 if __name__ == "__main__" :
-	features, labels = loading_data() 
-	linear_regression(features, labels, learning_rate=0.01, epochs=10000)
+	#features, labels = loading_data() 
+	#linear_regression(features, labels, learning_rate=0.01, epochs=10000)
+	
+	check_anagram("liSten", "silent")
+	check_anagram("hello", "world")
+	check_anagram("Dusty", "Study")
+	check_anagram("abc", "ab")
+
+# only one correction
+# sorted() on a string already sorts characters in alphabetical order (which is the same as ord() order) — so the key argument adds no value here.
