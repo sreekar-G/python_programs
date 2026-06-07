@@ -5,6 +5,11 @@ day4 - no progress
 day5 - no progress
 day6 - no progress
 day7 - prb:4 ~ (group scores by grades) defaultdict, conditions, grouping; prb:5 - (ceaser cipher) ord(), char() and % for wrap around, string  building
+day8 - no progress
+day9 - no progress
+day10 -  no progress
 day11 - Machine Learning (Square Trick, Absolute Trick); prb:4 ~ (ceaser cipher)
 day12 - Machine Learning (Linear Regression Implementation with square trick); prb:5 ~ (anagram check) sorted(), string methods
 day13 - RSME (Root Square Mean Error Function Implementation); prb:6 - (Student Grade Report); sum(), len(), sorted(), lambda(), prb:7 - (Palindrome Checker) .replace(), .lower() string methods. 
+day14 - no progress
+day15 - Machine Learning (training linear regression with Turi); prb:8 - list comprehension (list comprehension, filtering, transforming); prb:9 - File Handling (with open())
