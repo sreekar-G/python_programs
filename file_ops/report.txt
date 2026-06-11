@@ -1,0 +1,6 @@
+=== Student Report ===
+1. Carol  → avg: 91.33  grade: A
+2. Alice  → avg: 85.0  grade: B
+3. Eve  → avg: 80.0  grade: B
+4. David  → avg: 69.0  grade: C
+5. Bob  → avg: 53.33  grade: F
