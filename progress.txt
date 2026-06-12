@@ -17,3 +17,4 @@ day16 - exercies (3.1, 3.3); prb:10 -  Exception Handling (try/except, multiple 
 day17 - prb:12 - vehicle management system (reuse parent constructor, override parent method);  prb:13 - OOP + Exception Handling (# raise your own exception!)
 day18 - tried to solve 3.4; prb:14 - Library Management System (OOPS, Exception Handling,defaultdict / dict, f-strings, List comprehension inside display); 
 day19 - prb:15 - Mini Student Report System (File reading + writing,List comprehension, Sorting with lambda, Average calculation, Grade logic, OOP)
+day20 - prb:16 - NumPy Basics (Min, Max, Mean, Median, Sum, Normalize, Cap, Boolean); prb:17 - NumPy 2D Arrays (Matrix shape, zip(), axis=1 row-wise, axis=0 col-wise, Matrix normalization)
