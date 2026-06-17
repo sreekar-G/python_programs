@@ -21,3 +21,4 @@ day20 - prb:16 - NumPy Basics (Min, Max, Mean, Median, Sum, Normalize, Cap, Bool
 day21 - no progress
 day22 - prb:18 Numpy Deviation (Mean + boolean masking)
 day23 - prb:19 Standard Deviation Analysis (std_deviation, finding index of minimum value, boolean mask, absolute value for outlier detection, reusing axis concept);prb:20 Balanced Parentheses (stack, dictionary for matching, string iteration)
+day24 - prb:21 Normalization (Min-Max, Z-Score, Stack Columns);prb:22 TwoSum (dict as hash map, enumerate, algorithmic thinking)
