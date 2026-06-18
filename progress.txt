@@ -22,3 +22,4 @@ day21 - no progress
 day22 - prb:18 Numpy Deviation (Mean + boolean masking)
 day23 - prb:19 Standard Deviation Analysis (std_deviation, finding index of minimum value, boolean mask, absolute value for outlier detection, reusing axis concept);prb:20 Balanced Parentheses (stack, dictionary for matching, string iteration)
 day24 - prb:21 Normalization (Min-Max, Z-Score, Stack Columns);prb:22 TwoSum (dict as hash map, enumerate, algorithmic thinking)
+day25 - prb:23 numpy random, indices shuffle, ml pipeline (Generating Synthetic Data, Creating Target Variable, np.arange(), Shuffling Indices — Not Data Directly!,  Train/Test Split, Scale Test Using Train Stats); 
