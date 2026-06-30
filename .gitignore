@@ -1,2 +1,2 @@
 # Ignore local environment secrets
-numpy-env/
+./venv
